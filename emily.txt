@@ -2,3 +2,4 @@ Emily Chen
 student number: 72362374788
 password: emilychen123
 birthday: 3/25/2007
+Hi Emily
