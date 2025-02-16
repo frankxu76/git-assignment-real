@@ -1,0 +1,4 @@
+Emily Chen 
+student number: 72362374788
+password: emilychen123
+birthday:
